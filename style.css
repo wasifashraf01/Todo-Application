@@ -1,0 +1,27 @@
+body{
+     text-align: center;
+}
+input{
+     font-size: 20px;
+     outline: none;
+     border: 1px solid #828282;
+     border-radius: 6px;
+     padding: 5px;
+     color: rgb(26, 26, 26);
+}
+
+button{
+     font-size: 20px;
+     outline: none;
+     border: 1px solid #828282;
+     border-radius: 6px;
+     padding: 5px;
+}
+button:hover{
+     background-color: #828282;
+     color: azure;
+}
+
+ul{
+     list-style: none;
+}
