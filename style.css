@@ -1,5 +1,6 @@
 body{
      text-align: center;
+     background-color: rgb(53, 53, 53);
 }
 input{
      font-size: 20px;
@@ -24,4 +25,13 @@ button:hover{
 
 ul{
      list-style: none;
+}
+
+h1{
+     color: aquamarine;
+     font-size: 3rem;
+}
+li{
+     color: aliceblue;
+     margin: 5px;
 }
